@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a PhD student in power electronics/power system. I'm currently working on Modular Multilevel converter.
+To build a prototype, i'm currently learning embedded C code for TI and GitHub.
+
 <!--
 **JohanBkf/JohanBkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
