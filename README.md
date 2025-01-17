@@ -1,7 +1,8 @@
 ## Hi there 👋
-
-I am a PhD student in power electronics/power system. I'm currently working on Modular Multilevel converter.
-To build a prototype, i'm currently learning embedded C code for TI and GitHub.
+I am a PhD student in power electronics/power system. 
+- 🔭 I’m currently working on working on Modular Multilevel converter.
+- 🌱 I’m currently learning embeded C code for TI and Github
+- 👯 I’m looking to collaborate table tennis projects !
 
 <!--
 **JohanBkf/JohanBkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
